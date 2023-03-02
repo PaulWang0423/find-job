@@ -1,0 +1,12 @@
+promise为什么可以等待异步任务
+vue生命周期有哪些，作用
+怎么监听一个变量a
+如果是a=a+b呢？
+computed和watch的区别
+怎么侦听对象里的值
+路由懒加载怎么做
+说一下对vue-router的了解，一直问还有吗还有吗，一直问到我说不出为止
+临时存储一个值的方式
+说一下vuex、localStorage、sessionStorage、cookie
+vuex和他们的区别，一直问还有吗还有吗，一直问到我说不出为止
+小程序用什么写的

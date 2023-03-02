@@ -1,0 +1,14 @@
+无锡 Ntt Data
+
+技术问：
+1 盒模型
+2 css选择器优先级
+3 vue生命周期钩子函数
+4 computed和watch的区别
+5 跨域问题怎么解决
+7 computed和watch的区别
+6 promise async和await的使用
+8 公司技术栈很多，能否进行多技术栈学习
+9 进入公司需要学习日语是否可以接受
+
+项目经理问：

@@ -1,0 +1,28 @@
+cookie和storage区别，sessionstorage本地换个页面会不会消失
+flex布局，flex属性由哪三个构成的
+箭头函数与普通函数的区别
+this指向改变的方法与区别
+ES6新特性
+扩展运算符的使用场景
+let const var的区别（说是有很多）
+事件循环
+宏任务与微任务
+原型与原型链
+Promise各种问题都问了
+for...in和for...of区别，哪个性能好些
+vue生命周期
+v-if和v-show原理
+keep-alive如何实现缓存的（好像不是这个问题），它的两个钩子函数
+hash模式的实现方法
+vue双向绑定原理（越详细越好）
+Object.definePorpty()方法的参数
+三个参数：第一个是属性的对象，第二个是需要定义或修改的属性名称，第三个是描述属性的对象
+vnode和ast树
+组件传值方法
+vue性能优化
+数组的push等方法为什么能够在vue中实现数据响应，而有些方法不行
+vant有了解过吗
+webpack有配置过吗
+loader和 plugin区别
+如何解决404问题（他说用nginx配置一下）
+设计模式了解多少

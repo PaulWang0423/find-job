@@ -1,0 +1,15 @@
+1.vue组件通信有哪些
+2.闭包的使用场景
+3.防抖节流
+4.promise和async,await的区别
+5.ES6新特性
+6.vue生命周期
+7.vue项目的优化
+8. v-for和v-if的区别
+9..webpack的使用
+10.vue的指令有哪些
+11.computed和watch
+12.null和undefined
+13.解构赋值的应用场景
+14.登入退出模块
+15.(忘记了)

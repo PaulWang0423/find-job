@@ -1,0 +1,13 @@
+es6新特性
+数组去重
+vue生命周期
+created和mounted的区别
+$nextTick()的作用和原理
+keep-alive了解多少
+vuex的属性
+vue双向绑定的原理
+项目比较简单，那么有哪些亮点或难点
+vue性能优化
+插槽了解多少
+单点登录了解多少
+

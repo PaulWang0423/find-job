@@ -1,0 +1,11 @@
+1. 自我介绍
+2. 说一下登陆权限，token存储
+3. jquery 中怎么使用Ajax
+4. Echarts有哪些配置项
+5. 说一下nginx部署
+6. 知道canvas么
+7. 有两个同级的div，如何实现第二个div不被选中（包括事件、css样式）
+8. uniapp有做过多端开发么
+9. 知道websocket么
+10. 有用vue3开发过么
+11. h5做过么
